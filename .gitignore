@@ -1,2 +1,5 @@
 #books directory
 books
+
+#python
+__pycache__
